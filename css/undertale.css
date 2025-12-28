@@ -9,7 +9,6 @@ img {
   image-rendering: pixelated;
   image-rendering: -moz-crisp-edges;
   image-rendering: crisp-edges;
-  text-align: center;
 }
 
 @font-face {
@@ -82,6 +81,8 @@ img {
 	color:white;
 	font-family:"Determination Mono","Determination Sans","8-bit Operator","FixedSys","Courier New",monospace;
 	font-size:1em;
+  	margin-right: 50px;
+  	margin-left: 50px;
 }
 .ut-dialogue-small {
 	/* For text that should resemble UT dialogue BUT SMALLER */
